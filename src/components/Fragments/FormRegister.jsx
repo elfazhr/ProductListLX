@@ -1,5 +1,5 @@
 import React from 'react'
-import InputForm from '../Element/Input'
+import InputForm from '../Element/Input/Index'
 import ButtonKomponen from '../Element/Button/Index'
 
 const FormRegister = () => {

@@ -31,11 +31,11 @@
     "vite": "^5.4.1"
   },
   "scripts": {
-  "start": "react-scripts start",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d deploy",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
-}
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d deploy",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
 }
